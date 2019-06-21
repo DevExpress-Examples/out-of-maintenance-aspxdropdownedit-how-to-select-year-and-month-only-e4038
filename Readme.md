@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxDropDownEdit - How to select Year and Month only
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4038/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to create a DateEdit analog based on ASPxDropDownEdit with a custom DropDownWindowTemplate that allows you to select Year and Month only.</p>
