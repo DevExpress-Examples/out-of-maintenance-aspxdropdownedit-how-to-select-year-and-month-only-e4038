@@ -1,4 +1,4 @@
-﻿using DevExpress.Web.ASPxEditors;
+﻿using DevExpress.Web;
 using System;
 using System.Globalization;
 using System.Web.UI;

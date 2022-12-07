@@ -1,4 +1,4 @@
-﻿Imports DevExpress.Web.ASPxEditors
+﻿Imports DevExpress.Web
 Imports System
 Imports System.Globalization
 Imports System.Web.UI
